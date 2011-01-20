@@ -1,0 +1,8 @@
+production:
+  4   adapter: mongodb
+  5   database: production_befral_cms
+  6   host: localhost
+  7   username: toto
+  8   password: toto
+  9   encoding: utf8
+
